@@ -12,8 +12,6 @@ Table of Contents
   * [Report](#Report)
   * [Dataset](#Dataset)
   * [Special Track on Top-tier Venues](#Special_Track_on_Top-tier_Venues)
-  * [Agriculture-Aware Language Models](#Agriculture-Aware_Language_Models)
-  * [Agriculture-Aware Knowledge Extraction](#Agriculture-Aware_Knowledge_Extraction)
   * [When Logic Rules Meets Temporal Point Processes](#When_Logic_Rules_Meets_Temporal_Point_Processes)
   * [Downstream Applications](#Downstream_Applications)
   * [Soil Moisture](#Soil_Moisture)
@@ -67,18 +65,6 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 ## Special_Track_on_Top-tier_Venues
 [[Special Track on AI for Good Accepted Papers]](https://ijcai-22.org/special-track-on-ai-for-good-accepted-papers/)
-
-
-
-## Agriculture-Aware_Language_Models
-1. Saed Rezayi, Zhengliang Liu, Zihao Wu, Chandra Dhakal, Bao Ge, Chen Zhen, Tianming Liu, Sheng Li. **AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition**. IJCAI 2022. [[paper]](https://www.ijcai.org/proceedings/2022/715)
-
-
-
-## Agriculture-Aware_Knowledge_Extraction
-1. Quoc HungNgo, Tahar Kechadi, Nhien-AnLe-Khac. **Knowledge representation in digital agriculture: A step towards standardised model**. Computers and Electronics in Agriculture 2022. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169922004446)
-
-
 
 
 
