@@ -40,6 +40,8 @@ Table of Contents
 1. Oleksandr Shchur, Ali Caner Turkmen, Tim Januschowski, and Stephan Gunnemann. **Neural Temporal Point Processes：A Review**. IJCAI 2021. [[Paper]](https://www.ijcai.org/proceedings/2021/0623.pdf) 
 
 
+2. Ricky T. Q. Chen, Brandon Amos, Maximilian Nickel. **Neural Spatio-Temporal Point Processes**. Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2011.04583.pdf) 
+
 
 <!-- ## IJCAI-22 -->
 <!-- ## CIKM -->
@@ -58,7 +60,6 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 ## Dataset
 1. Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner, and Dan Roth. [TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions](https://www.aclweb.org/anthology/2020.emnlp-main.88.pdf). EMNLP 2020. [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.88.pdf)
-
 
 
 
