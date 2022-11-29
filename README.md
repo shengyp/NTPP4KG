@@ -14,6 +14,7 @@ Table of Contents
   * [Special Track on Top-tier Venues](#Special_Track_on_Top-tier_Venues)
   * [When Logic Rules Meets Temporal Point Processes](#When_Logic_Rules_Meets_Temporal_Point_Processes)
   * [Temporal Point Processes for Temporal KG](#Temporal_Point_Processes_for_Temporal_KG)
+  * [Temporal Point Processes for Graph Representation Learning](#Temporal_Point_Processes_for_Graph_Representation_Learning)
   * [Downstream Applications](#Downstream_Applications)
   * [Thesis](#Thesis)
   * [Tools](#Tools)
@@ -80,6 +81,9 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 <!-- ## Agriculture-Aware_Knowledge_Graph_Construction
 1. 吕东东, 陈俊华, 毛典辉, 张青川, 赵敏, 郝治昊. **农产品标准领域知识图谱实体关系抽取及关联性分析**. 农业工程学报 2022. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20220935?st=search)
  -->
+
+## Temporal_Point_Processes_for_Graph_Representation_Learning
+1. Zhihao Wen, Yuan Fang. **TREND: TempoRal Event and Node Dynamics for Graph Representation Learning**. WWW 2022. [[Paper]](https://arxiv.org/pdf/2203.14303.pdf) [[Report]](https://cloud.tencent.com/developer/article/1982498)
 
 
 
