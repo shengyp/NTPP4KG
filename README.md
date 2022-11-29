@@ -13,6 +13,7 @@ Table of Contents
   * [Dataset](#Dataset)
   * [Special Track on Top-tier Venues](#Special_Track_on_Top-tier_Venues)
   * [When Logic Rules Meets Temporal Point Processes](#When_Logic_Rules_Meets_Temporal_Point_Processes)
+  * [Temporal Point Processes for Temporal KG](#Temporal_Point_Processes_for_Temporal_KG)
   * [Downstream Applications](#Downstream_Applications)
   * [Thesis](#Thesis)
   * [Tools](#Tools)
@@ -68,6 +69,12 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 ## When_Logic_Rules_Meets_Temporal_Point_Processes
 1. Shuang Li, Mingquan Feng, Lu Wang, Abdelmajid Essofi, Yufeng Cao, Junchi Yan, Le Song. **Explaining Point Processes by Learning Interpretable Temporal Logic Rules** 2012. [[Paper]](https://openreview.net/pdf?id=P07dq7iSAGr) [[Report]](https://new.qq.com/rain/a/20220315A081UT00) [[Code]](https://github.com/FengMingquan-sjtu/Logic_Point_Processes_ICLR)
+
+
+
+## Temporal_Point_Processes_for_Temporal_KG
+1. Zhen Han, Yunpu Ma, Yuyi Wang, Stephan G¨unnemann, and Volker Tresp. **Graph Hawkes Neural Network for Forecasting on Temporal Knowledge Graphs**. Automated Knowledge Base Construction 2020. [[Paper]](https://www.akbc.ws/2020/assets/pdfs/kXVazet_cB.pdf) [[Code]](https://github.com/FengMingquan-sjtu/Logic_Point_Processes_ICLR)
+
 
 
 
