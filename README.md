@@ -77,11 +77,9 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 1. Zhen Han, Yunpu Ma, Yuyi Wang, Stephan G¨unnemann, and Volker Tresp. **Graph Hawkes Neural Network for Forecasting on Temporal Knowledge Graphs**. Automated Knowledge Base Construction 2020. [[Paper]](https://www.akbc.ws/2020/assets/pdfs/kXVazet_cB.pdf) [[Code]](https://github.com/FengMingquan-sjtu/Logic_Point_Processes_ICLR)
 
 
-
-
-## Agriculture-Aware_Knowledge_Graph_Construction
+<!-- ## Agriculture-Aware_Knowledge_Graph_Construction
 1. 吕东东, 陈俊华, 毛典辉, 张青川, 赵敏, 郝治昊. **农产品标准领域知识图谱实体关系抽取及关联性分析**. 农业工程学报 2022. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20220935?st=search)
-
+ -->
 
 
 
